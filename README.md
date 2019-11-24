@@ -49,3 +49,6 @@ Be sure to validate your html.
 Consult the specs below these instructions for advice on styling your CSS files.
 
 Push your changes to Github.
+
+
+![capture](https://user-images.githubusercontent.com/56567819/69487338-94b5bc00-0e1d-11ea-915a-c60201bee8ac.png)
