@@ -1,11 +1,12 @@
 # Basic-Portfolio
 Recommended Assignment - That Portfolio Though
 
-Overview:
+## Overview:
 
 In this assignment, you'll build a professional portfolio site using HTML/CSS. These instructions include a short style guide; follow it to design an aesthetically pleasing layout while creating different kinds of complex HTML elements.
 
-Instructions:
+## Instructions:
+
 1. Create a new repository in GitHub called Basic-Portfolio.
 2. Clone this repository to your computer using the process we went over in class.
 3. Navigate to the Basic-Portfolio folder that you just cloned onto your machine. Inside this folder, create the following:
